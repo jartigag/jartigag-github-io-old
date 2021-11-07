@@ -7,7 +7,7 @@ author: jartigag
 image: /assets/images/posts/captive.png
 tag:
 - wifi
-- seguridad
+- ciberseguridad
 mastodonReplies: https://mastodon.social/@jartigag/101274896570193224
 twitterReplies: https://twitter.com/jartigag/status/1076772123170037760
 ---

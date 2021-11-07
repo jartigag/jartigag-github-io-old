@@ -9,8 +9,8 @@ author: jartigag
 tag:
 - ctf
 - análisis
-- cybersec
-- windos
+- ciberseguridad
+- windows
 mastodonReplies: https://mastodon.social/@jartigag/107079704581201058
 twitterReplies: https://twitter.com/jartigag/status/1447522555275927552
 ---
