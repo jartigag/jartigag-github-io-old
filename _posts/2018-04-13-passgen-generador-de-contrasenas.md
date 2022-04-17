@@ -10,6 +10,7 @@ tag:
 - web
 - javascript
 mastodonReplies: https://mastodon.social/@jartigag/99854172124441523
+redirect_to: https://jartigag.blog/passgen-generador-de-contrasenas
 ---
 
 Generador de contraseñas desarrollado para el proyecto dirigido de la asignatura "Servicios Web: Cliente".

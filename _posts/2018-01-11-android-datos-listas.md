@@ -5,6 +5,7 @@ date:   2018-01-11
 author: jartigag
 tag:
 - android
+redirect_to: https://jartigag.blog/android-2
 ---
 
 ## /índice:

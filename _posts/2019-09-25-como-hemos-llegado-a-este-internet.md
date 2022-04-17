@@ -14,6 +14,7 @@ tag:
 - linux
 mastodonReplies: https://mastodon.social/@jartigag/102854461876365102
 twitterReplies: https://twitter.com/jartigag/status/1176920595822456834
+redirect_to: https://jartigag.blog/como-hemos-llegado-a-este-internet
 ---
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>

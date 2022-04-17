@@ -11,6 +11,7 @@ tag:
 - reflexiones
 mastodonReplies: https://mastodon.social/@jartigag/100459838545578618
 twitterReplies: https://twitter.com/jartigag/status/1023681168779235334
+redirect_to: https://jartigag.blog/sal-de-la-maquina
 ---
 
 ![]({{site.baseurl}}/assets/images/posts/sal-de-la-maq.jpg)

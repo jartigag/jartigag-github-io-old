@@ -13,6 +13,7 @@ tag:
 - guías
 mastodonReplies: https://mastodon.social/web/statuses/100901154081129525
 twitterReplies: https://twitter.com/jartigag/status/1051812573807595527
+redirect_to: https://jartigag.blog/lineageos-en-osprey
 ---
 
 Hace ya un par de semanas instalé un nuevo *sistema operativo Android* en mi antiguo móvil, un Moto G de 2015. Se trata de **LineageOS**, la

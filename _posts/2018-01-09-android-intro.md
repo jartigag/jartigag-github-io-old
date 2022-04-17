@@ -6,6 +6,7 @@ author: jartigag
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Android-System-Architecture.svg/675px-Android-System-Architecture.svg.png
 tag:
 - android
+redirect_to: https://jartigag.blog/android-1
 ---
 
 ## /índice:

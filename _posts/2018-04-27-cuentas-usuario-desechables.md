@@ -14,6 +14,7 @@ tag:
 - teléfono
 mastodonReplies: https://mastodon.social/@jartigag/99932797400688696
 twitterReplies: https://twitter.com/jartigag/status/990201462369275910
+redirect_to: https://jartigag.blog/cuentas-usuario-desechables
 ---
 
 > “Una falsa identidad es más eficaz que una máscara de Guy Fawkes” - "V de Vendetta"

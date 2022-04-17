@@ -11,6 +11,7 @@ tag:
 - arduino
 mastodonReplies: https://mastodon.social/@jartigag/99467294184328640
 twitterReplies: https://twitter.com/jartigag/status/960142653953396736
+redirect_to: https://jartigag.blog/dcuartielles-en-pamplona
 ---
 
 <p align="center">

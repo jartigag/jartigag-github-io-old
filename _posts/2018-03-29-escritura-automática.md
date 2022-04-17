@@ -11,6 +11,7 @@ tag:
 - javascript
 mastodonReplies: https://mastodon.social/@jartigag/99774875378103754
 twitterReplies: https://twitter.com/jartigag/status/1127526298753150976
+redirect_to: https://jartigag.blog/escritura-automática
 ---
 
 > simplemente, escribe sin parar →  [https://jartigag.github.io/ea](https://jartigag.github.io/ea)

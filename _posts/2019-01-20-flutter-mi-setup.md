@@ -10,6 +10,7 @@ tag:
 - android
 mastodonReplies: https://mastodon.social/@jartigag/101448950300742873
 twitterReplies: https://twitter.com/jartigag/status/1091062294866468866
+redirect_to: https://jartigag.blog/flutter-mi-setup
 ---
 
 ![]({{site.baseurl}}/assets/images/posts/flutter-holamundo.png)

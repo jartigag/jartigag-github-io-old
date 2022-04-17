@@ -11,6 +11,7 @@ tag:
 - reflexiones
 mastodonReplies: https://mastodon.social/@jartigag/102435028504431424
 twitterReplies: https://twitter.com/jartigag/status/1150076581605531648
+redirect_to: https://jartigag.blog/git-no-es-github
 ---
 
 Hoy solo venía a dejar por aquí algunas reflexiones, nombres e hitos sobre [Git](https://git-scm.com/book/en/v2), el famoso software de control de

@@ -10,6 +10,7 @@ tag:
 - git
 mastodonReplies: https://mastodon.social/@jartigag/106133612058001686
 twitterReplies: https://twitter.com/jartigag/status/1386735108376379398
+redirect_to: https://jartigag.blog/tenias-backup-no
 ---
 
 Este post llevaba en el cajón un tiempo, ya casi lo había tirado a la papelera.

@@ -17,6 +17,7 @@ tag:
 - clojure
 mastodonReplies: https://mastodon.social/@jartigag/100633607352719912
 twitterReplies: https://twitter.com/jartigag/status/1034787195339657217
+redirect_to: https://jartigag.blog/lately-scripted
 ---
 
 Este verano me he dedicado en gran parte a escribir código. Principalmente he programado para el proyecto de Typosquatting que presentaré como mi

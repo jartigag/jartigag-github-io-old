@@ -10,6 +10,7 @@ tag:
 - ciberseguridad
 mastodonReplies: https://mastodon.social/@jartigag/101274896570193224
 twitterReplies: https://twitter.com/jartigag/status/1076772123170037760
+redirect_to: https://jartigag.blog/wifi-cautivo
 ---
 
 Para el trabajo final de la asignatura de Seguridad, trasteamos un poco con redes Wi-Fi. *Y lo que descubrimos a continuación te sorprenderá.*  Al

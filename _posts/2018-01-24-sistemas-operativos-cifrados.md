@@ -5,6 +5,7 @@ date:   2018-01-24
 howto: true
 author: jartigag
 image: /assets/images/posts/SOs-cifrados.jpg
+redirect_to: https://jartigag.blog/sistemas-operativos-cifrados
 tag:
 - linux
 - debian

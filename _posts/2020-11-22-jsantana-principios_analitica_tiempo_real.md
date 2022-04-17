@@ -12,6 +12,7 @@ tag:
 - bases de datos
 mastodonReplies: https://mastodon.social/@jartigag/105253363811680170
 twitterReplies: https://twitter.com/jartigag/status/1330452033242075136
+redirect_to: https://jartigag.blog/jsantana-principios_analitica_tiempo_real
 ---
 <p align="center">
 <img src="{{site.baseurl}}/assets/images/posts/hummingbird-levi-jones-grRhpfQbBZI-unsplash.jpg">

@@ -11,6 +11,7 @@ tag:
 - machine learning
 mastodonReplies: https://mastodon.social/@jartigag/105174732236617291
 twitterReplies: https://twitter.com/jartigag/status/1325416277477892096
+redirect_to: https://jartigag.blog/aburkov-machine_learning_engineering
 ---
 
 Con esta entrada empiezo una nueva categoría de posts que voy a llamar "notas".

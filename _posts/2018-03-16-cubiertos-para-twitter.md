@@ -10,6 +10,7 @@ tag:
 - python
 - twitter
 twitterReplies: https://twitter.com/jartigag/status/974725622143569921
+redirect_to: https://jartigag.blog/cubiertos-para-twitter
 ---
 
 He diseñado mi propia [*cubertería*](https://github.com/jartigag/cubiertos-para-twitter). Es un kit de 3 herramientas para **hacer que Twitter sea
